@@ -1,0 +1,27 @@
+Kullanıcının girdiği bir cümledeki sadece sayıları alt alta yazdıran bir program yazalım.
+
+Tasks : 
+1. "test" adında değişken oluşturup, kullanıcıdan string formatında istenen girdi değerini atayalım.
+2. Girilen her bir kelimenin string mi integer mı olduğuna karar verelim.
+3. Integer olanları alt alta ekrana yazdıralım.
+
+Dipnot :
+1. Kullanıcının integer dışında sayısal bir değer girmeyeceğini varsayalım. (float vs. kontrollerine gerek yok.)
+2. Kullanıcının gireceği cümledeki kelimelerin aralarında birer boşluk olduğunu varsayalım.
+(Zorlama örnekler için ekstra kontrollere gerek yok.)
+
+Ekstra :
+İsterseniz her kelime için string olanların tek tek ASCII kodlarını - aralarında virgüller olacak şekilde-
+integer ları da oldukları gibi alt alta ekrana yazdıralım.
+
+Örnek Input : 2ali 5 ekm3ğe 400 verdi.
+Örnek Output :
+5
+400
+
+Ekstra için ise Output:
+50, 97, 108, 105
+5
+101, 107, 109, 51, 287, 101
+400
+118, 101, 114, 100, 105, 46

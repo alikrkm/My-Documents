@@ -1,0 +1,33 @@
+Kullanıcıdan bir sayı ile yine kullanıcıdan bir taban değeri alıp girilen sayının girilen taban değerindeki karşılığını ekrana basan programı yazalım.
+
+Input - 1 :
+Sayı giriniz            : 127
+Taban değeri giriniz    : 2
+
+Output - 1 :
+Sonucunuz               : 1111111
+
+Input - 2 :
+Sayı giriniz            : 127
+Taban değeri giriniz    : 5
+
+Output - 2 :
+Sonucunuz               : 1002
+
+Input - 3 :
+Sayı giriniz            : 222
+Taban değeri giriniz    : 9
+
+Output - 3 :
+Sonucunuz               : 266
+
+Extra :
+
+Eğer kullanıcı 10 dan büyük bir değer girerse ekrana şu şekilde sonuçlar çıkmasını sağlayalım.
+
+Extra Input :
+Sayı giriniz            : 2500
+Taban değeri giriniz    : 16
+
+Extra Output :
+Sonucunuz               : 9C4

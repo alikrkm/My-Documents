@@ -1,0 +1,25 @@
+Heim'da kalan 3 ayrı kişi alışveriş için ilk defa beraber merkeze gidiyorlar.
+
+1. si haftada 1 gün alışverişe gidiyor ve 4 kişilik ailesi için 21 tane 6'lı brotchen paketi alıyor.
+2. si ise 3 günde 1 alışverişe gidiyor ve 5 kişilik ailesi için 11 tane 6'lı brotchen paketi alıyor.
+3. si ise 5 günde 1 alışverişe gidiyor ve 6 kişilik ailesi için 19 tane 6'lı brotchen paketi alıyor.
+
+* Her ailede 2 ebeveyn olduğu ve her ebeveynin günde 9 brotchen yediği kabul edilecektir.
+* Her çocuğun yaşı farketmeksizin günde 4 brotchen yediği kabul edilecektir.
+* Her ailenin alışverişe ilk beraber gittikleri gün stoklarında 10 tane 6'lı brotchen paketi olduğu kabul edilecektir.
+* Her alışveriş günü önce alış veriş yapılıp ardından ekmek tüketildiği kabul edilecektir.
+
+Soru 1 : Ailelerin stokları kaçıncı alışverişe gitmelerinden sonra tükenir ?
+Soru 2 : Ailelerin stokları kaçıncı günlerinde tükenir ?
+Soru 3 : Aileler her alışverişe gittiklerinde en az kaç tane daha fazla 6'lı brotchen paketi alsaydı stokları
+en az 5 gün daha fazla dayanırdı ?
+
+Tasks : 
+
+1. ebevyn_sayisi şeklinde bir değişken tanımla.
+2. cocuk_sayisi şeklinde bir değişken tanımla.
+3. gunluk_tuketimi tanımla ve hesapla.
+4. stok şeklinde bir değişken tanımla.
+5. alinan_brotchen şeklinde bir değişken tanımla.
+6. alisveris_gunu şeklinde bir değişken tanımla.
+7. kalan tanımla ve hesapla.

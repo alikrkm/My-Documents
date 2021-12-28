@@ -1,0 +1,25 @@
+Kullanıcıdan "name" adında bir değişken isteyelim.
+
+Task 1 : Sadece string fonksiyonları kullanarak ilk harfi küçük diğer harfleri büyük olmasını sağlayalım.
+
+Örnek input - 1 : OsMaN
+İstenen Output-1: oSMAN
+
+Örnek input - 2 : aLi
+İstenen Output-2: aLI
+
+Task 2 : "name_titled" adında bir değişken tanımlayıp, name.title() değerini atayalım.
+Varsa orta harflerinin büyük; ilk, son ve kalan harflerin ise küçük olmasını sağlayalım.
+*Dipnot : string fonksiyonlarını kullanamayalım bu sefer.
+
+Örnek input - 1 : durna
+İstenen Output-1: duRna
+
+Örnek input - 2 : text
+İstenen Output-2: tEXt
+
+Örnek input - 3 : Ak
+İstenen Output-2: ak
+
+Örnek input - 2 : A
+İstenen Output-2: a
