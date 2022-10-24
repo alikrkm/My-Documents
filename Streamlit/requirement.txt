@@ -69,7 +69,7 @@ pywin32==304
 pywinpty==2.0.5
 pyzmq==23.0.0
 requests==2.27.1
-scikit-learn==1.1.1
+scikit_learn==1.1.1
 scipy==1.8.1
 semver==2.13.0
 Send2Trash==1.8.0
