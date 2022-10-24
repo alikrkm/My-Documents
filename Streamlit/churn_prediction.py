@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 
-import sklearn as sklearn
+import sklearn
 import pickle
 
 #image = Image.open("img.jpg")
